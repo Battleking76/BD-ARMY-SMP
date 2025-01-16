@@ -1,1 +1,1 @@
-# BD-ARMY-SMP
+# BD-ARMY
